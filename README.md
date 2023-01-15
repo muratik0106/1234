@@ -6,7 +6,7 @@
             <td style="border:1px solid blue;">Вид спорта</td>
             <td style="border:1px solid blue;">Время</td>
             <td style="border:1px solid blue;">Место занятий</td>
-            <td style="border:1px solid blue;">Уровень</td>
+            <td style="border:1px solid blue;">Уровен</td>
             <td style="border:1px solid blue;">Тренер</td>
         </tr>
         <tr>
